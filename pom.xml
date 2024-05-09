@@ -11,6 +11,7 @@
     <modules>
         <module>mybatis-chapter2</module>
         <module>mybatis-chapter1</module>
+        <module>mybatis-chapter3</module>
     </modules>
 
     <properties>
